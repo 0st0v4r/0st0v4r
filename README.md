@@ -3,7 +3,7 @@
 
 # my life be like :
 
-<img src="https://github.com/user-attachments/assets/c4d03f9d-b06c-4045-b9a9-cc65a2c7c8f6" width="140" height="140" />
+<img src="https://github.com/user-attachments/assets/c4d03f9d-b06c-4045-b9a9-cc65a2c7c8f6" width="150" height="140" />
 
 # 💻 Tech Stack:
 <img src="https://github.com/user-attachments/assets/2b469ff4-61fa-4e4a-8613-d06a9f62b74c" width="140" height="140" />
