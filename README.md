@@ -1,12 +1,6 @@
 # 💫 About Me:
 ---> pentester<br>---> hacker (scriptkid)<br>---> programmer
-                                                         c=====e
-                                                            H
-   ____________                                         _,,_H__
-  (__((__((___()                                       //|     |
- (__((__((___()()_____________________________________// |ACME |
-(__((__((___()()()------------------------------------'  |_____|
-
+                                                        
 # (¬_¬) my life be like :
 
 <img src="https://github.com/user-attachments/assets/c4d03f9d-b06c-4045-b9a9-cc65a2c7c8f6" width="500" height="300" />
