@@ -3,8 +3,8 @@
 
 
 # 💻 Tech Stack:
+<img src="https://github.com/user-attachments/assets/2b469ff4-61fa-4e4a-8613-d06a9f62b74c" width="150" height="150" />
 <img src="https://github.com/user-attachments/assets/94c8b77d-056d-4005-93d1-cc5ba1605636" width="130" height="130" />
-<img src="https://github.com/user-attachments/assets/2b469ff4-61fa-4e4a-8613-d06a9f62b74c" width="140" height="140" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ostovar1389&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
