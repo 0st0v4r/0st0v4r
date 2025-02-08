@@ -1,14 +1,14 @@
 # 💫 About Me:
 ---> pentester<br>---> hacker (scriptkid)<br>---> programmer
 
-# my life be like :
+# (¬_¬) my life be like :
 
 <img src="https://github.com/user-attachments/assets/c4d03f9d-b06c-4045-b9a9-cc65a2c7c8f6" width="500" height="300" />
 
 # 💻 Tech Stack:
-<img src="https://github.com/user-attachments/assets/2b469ff4-61fa-4e4a-8613-d06a9f62b74c" width="140" height="140" />
-<img src="https://github.com/user-attachments/assets/5f5ddde9-e5b4-40d8-a9a3-ad632e7c28f7" width="140" height="140" />
-<img src="https://github.com/user-attachments/assets/94c8b77d-056d-4005-93d1-cc5ba1605636" width="140" height="140" />
+<img src="https://github.com/user-attachments/assets/2b469ff4-61fa-4e4a-8613-d06a9f62b74c" width="160" height="160" />
+<img src="https://github.com/user-attachments/assets/5f5ddde9-e5b4-40d8-a9a3-ad632e7c28f7" width="160" height="160" />
+<img src="https://github.com/user-attachments/assets/94c8b77d-056d-4005-93d1-cc5ba1605636" width="160" height="160" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ostovar1389&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
