@@ -1,5 +1,5 @@
 # 💫 About Me:
---->卐 nasional socialist iran 卐<br>---> pentester 卐<br>---> hacker (scriptkid) 卐<br>---> programmer 卐
+卐 nasional socialist iran 卐<br>---> pentester 卐<br>---> hacker (scriptkid) 卐<br>---> programmer 卐
                                                         
 # (¬_¬) my life be like :
 
