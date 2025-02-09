@@ -1,6 +1,19 @@
 # 💫 About Me:
 <h2>卐 nasional socialist iran 卐<h2>---> pentester 卐<br>---> hacker (scriptkid) 卐<br>---> programmer 卐
-                                                        
+<br>
+ ___________________________________________ 
+|                                           |
+|              ________                     |
+|             |_____   |                    |
+|                   |  |                    |
+|   ________________|  |________________    |
+|  |________________    ________________|   |
+|                   |  |                    |
+|              _____|  |_____               |
+|             |______________|              |
+|___________________________________________|
+
+<br>                                                        
 # (¬_¬) my life be like :
 
 <img src="https://github.com/user-attachments/assets/c4d03f9d-b06c-4045-b9a9-cc65a2c7c8f6" width="490" height="290" />
