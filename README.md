@@ -1,7 +1,7 @@
 # 💫 About Me:
 卐 nasional socialist iran 卐<br>---> pentester 卐<br>---> hacker (scriptkid) 卐<br>---> programmer 卐
 
-<div style="background-image: url('https://github.com/user-attachments/assets/5a4c0726-a963-4e09-8670-55b132e8a29c'); background-size: cover; padding: 20px; border-radius: 10px;">
+<div style="background-image: url('https://github.com/user-attachments/assets/5a4c0726-a963-4e09-8670-55b132e8a29c'); background-size: cover; padding: 100px; border-radius: 100px;">
 </div>
                                                         
 # (¬_¬) my life be like :
