@@ -28,10 +28,7 @@
 ⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠀⠀⠀⠀⠀⠰⠀⠀⠀⠀⠀⠂⢘⠤⡄⠈⠒⢭⡒⠤⠂⠠⡀⠸⢷⣶⢶⡶⡾⢿⣿⣿
 </h5>
 
-# Your IP
-<!-- IP_START -->
-![IP Location](https://img.shields.io/badge/dynamic/json?url=https://ipapi.co/json/&label=Country&query=$.country_name&color=blue&prefix=🌍%20)
-<!-- IP_END -->
+
 # (¬_¬) my life be like :
 
 <img src="https://github.com/user-attachments/assets/c4d03f9d-b06c-4045-b9a9-cc65a2c7c8f6" width="490" height="290" />
