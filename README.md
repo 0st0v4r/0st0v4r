@@ -28,6 +28,9 @@
 ⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠀⠀⠀⠀⠀⠰⠀⠀⠀⠀⠀⠂⢘⠤⡄⠈⠒⢭⡒⠤⠂⠠⡀⠸⢷⣶⢶⡶⡾⢿⣿⣿
 </h5>
 
+# Your IP
+[![IP Location](https://img.shields.io/badge/Dynamic_IP_Widget-Live-blue?style=for-the-badge)](https://your-username.github.io/your-repo/ip-widget.html)
+
 # (¬_¬) my life be like :
 
 <img src="https://github.com/user-attachments/assets/c4d03f9d-b06c-4045-b9a9-cc65a2c7c8f6" width="490" height="290" />
