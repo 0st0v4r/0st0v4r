@@ -39,7 +39,7 @@
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0st0v4r&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="400" height="400" /> 
-![0st0v4r's Stats](https://github-readme-stats.vercel.app/api?username=0st0v4r&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=0st0v4r&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="400" height="400" /> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ostovar1389&icon=0&color=0)](https://visitcount.itsvg.in)
