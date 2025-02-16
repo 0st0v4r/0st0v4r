@@ -38,7 +38,7 @@
 <img src="https://github.com/user-attachments/assets/94c8b77d-056d-4005-93d1-cc5ba1605636" width="160" height="160" />
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0st0v4r&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="400" height="400" /> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0st0v4r&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="400" height="400" /> 
 ![0st0v4r's Stats](https://github-readme-stats.vercel.app/api?username=0st0v4r&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
