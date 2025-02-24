@@ -27,14 +27,6 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⠑⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠈⠐⠨⠑⠨⠐⠀⢁⣾⣿
 ⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠀⠀⠀⠀⠀⠰⠀⠀⠀⠀⠀⠂⢘⠤⡄⠈⠒⢭⡒⠤⠂⠠⡀⠸⢷⣶⢶⡶⡾⢿⣿⣿
 </h5>
-
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=BFLBinwlYFM" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=BFLBinwlYFM"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object> 
 https://radiodl2.musicmelnet.com/Music/1400/8/Yavare%20Hamishe%20Momen.mp3
 # (¬_¬) my life be like :
 
