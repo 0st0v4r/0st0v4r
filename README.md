@@ -28,7 +28,9 @@
 ⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠀⠀⠀⠀⠀⠰⠀⠀⠀⠀⠀⠂⢘⠤⡄⠈⠒⢭⡒⠤⠂⠠⡀⠸⢷⣶⢶⡶⡾⢿⣿⣿
 </h5>
 
+# Welcome to My GitHub Profile!
 
+Here is a link to my favorite song: [My Favorite Song](https://www.youtube.com/watch?v=BFLBinwlYFM)
 # (¬_¬) my life be like :
 
 <img src="https://github.com/user-attachments/assets/c4d03f9d-b06c-4045-b9a9-cc65a2c7c8f6" width="490" height="290" />
