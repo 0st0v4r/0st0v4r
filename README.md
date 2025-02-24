@@ -28,9 +28,14 @@
 ⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠀⠀⠀⠀⠀⠰⠀⠀⠀⠀⠀⠂⢘⠤⡄⠈⠒⢭⡒⠤⠂⠠⡀⠸⢷⣶⢶⡶⡾⢿⣿⣿
 </h5>
 
-# Welcome to My GitHub Profile!
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=BFLBinwlYFM" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=BFLBinwlYFM"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object> 
 
-Here is a link to my favorite song: [My Favorite Song](https://www.youtube.com/watch?v=BFLBinwlYFM)
 # (¬_¬) my life be like :
 
 <img src="https://github.com/user-attachments/assets/c4d03f9d-b06c-4045-b9a9-cc65a2c7c8f6" width="490" height="290" />
